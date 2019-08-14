@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 joblib
+01_newsgroups_content_raw.txt
+02_newsgroups_lines_raw.txt
+03_newsgroups_clean.txt
+04_leminized.txt
+05_leminized_no_stop.txt
